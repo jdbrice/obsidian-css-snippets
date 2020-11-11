@@ -2,7 +2,7 @@
 
 An Obsidian plugin for loading custom css snippets
 
-![Example gif](./assets/obsidian-todoist-sync.gif)
+![Example gif](./assets/obsidian-css-snippets.gif)
 
 ## Usage
 
