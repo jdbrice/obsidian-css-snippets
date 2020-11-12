@@ -26,15 +26,15 @@ From Obsidian v0.9.8, you can activate this plugin within Obsidian by doing the 
 - Open Settings > Third-party plugin
 - Make sure Safe mode is **off**
 - Click Browse community plugins
-- Search for "copy code"
+- Search for "css snippets"
 - Click Install
 - Once installed, close the community plugins window and activate the newly installed plugin
 #### Updates
 You can follow the same procedure to update the plugin
 
 ### From GitHub
-- Download the [Latest release](https://github.com/jdbrice/obsidian-code-block-copy/releases/latest)
-- Extract the `obsidian-code-block-copy` folder from the zip to your vault's plugins folder: `<vault>/.obsidian/plugins/`  
+- Download the [Latest release](https://github.com/jdbrice/obsidian-css-snippets/releases/latest)
+- Extract the `obsidian-css-snippets` folder from the zip to your vault's plugins folder: `<vault>/.obsidian/plugins/`  
 Note: On some machines the `.obsidian` folder may be hidden. On MacOS you should be able to press `Command+Shift+Dot` to show the folder in Finder.
 - Reload Obsidian
 - If prompted about Safe Mode, you can disable safe mode and enable the plugin.
