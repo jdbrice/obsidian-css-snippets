@@ -12,6 +12,13 @@ This adds two commands:
 1. "css snippet: Reload" - loads or reloads the css files, use this if you add a new file to the folder. 
 2. "css snippet: Unload" - unloads all loaded style snippets
 
+## Roadmap
+- [ ] Setting tab that allows user to set the folder for storing snippets
+- [ ] Toggle snippets individually ( command palette?)
+- [ ] consider adding scss and sass compilation??? 
+- [ ] scoped styles (defined in page frontmatter or based on tags etc.) - but need to find a solution for applying scoped style so that they apply only to the page not global
+
+
 ### Compatibility
 
 Custom plugins are only available for Obsidian v0.9.7+.
