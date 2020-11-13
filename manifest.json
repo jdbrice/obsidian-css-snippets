@@ -1,7 +1,7 @@
 {
   "id": "css-snippets",
   "name": "css snippets",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Load and manage css snippets",
   "author": "dandandan",
   "authorUrl": "https://github.com/jdbrice/obsidian-css-snippets",
