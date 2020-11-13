@@ -1,6 +1,6 @@
 {
-  "name": "css-snippet-plugin",
-  "version": "0.1.0",
+  "name": "css-snippets",
+  "version": "0.1.2",
   "description": "An Obsidian plugin for loading css snippets",
   "main": "src/index.js",
   "scripts": {
